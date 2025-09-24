@@ -12,7 +12,10 @@ so I like to call my self aNGINeeR
 
 ## How ? 
 yeah i followed path like any other sheep, i completed my collage then joined FAST-NUCES to get Bachelor's in Computer Science,  (oi its computer science not software engineer )
-so somehow i get it done by doing some accademic projects for 4 years full then in the end got Page called Bachelor's blah lbah bla. so after this , so people saw my skills my knowledge hired me as engineer in their company 
+so somehow i get it done by doing some accademic projects for 4 years full then in the end got Page called Bachelor's blah lbah bla. so after this , 
+soME people OPened my head and found <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" /> 
+hired me as engineer in their company.
+
 things which were hard as rock for them were butter for me so. Thats how i start to call my self BUTTER!. 
 
 You know about money, because of it i had to do labour in 
