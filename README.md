@@ -1,4 +1,4 @@
-# Hamza Bhutta
+# Hamza Bhutta ( Kernel-Butter ) 
 **Software Developer** — I build fast, simple, and reliable web apps.
 
 I focus on clean code, good user experience, and shipping features that work well in the real world. I enjoy solving problems, improving performance, and helping teams move faster.
