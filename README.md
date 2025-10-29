@@ -1,35 +1,38 @@
+# Hamza Bhutta
+**Software Developer** — I build fast, simple, and reliable web apps.
 
-## Hi, I am Butter,
-## want to know real name? 
-Ok its Hamza Bhutta.
+I focus on clean code, good user experience, and shipping features that work well in the real world. I enjoy solving problems, improving performance, and helping teams move faster.
 
-so I like to call my self aNGINeeR  
+---
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
-<br>
+## Skills
+- JavaScript (ES6+), TypeScript  
+- React, Next.js, Vue.js  
+- Node.js, Express.js  
+- MongoDB, PostgreSQL  
+- RESTful APIs, GraphQL  
+- Tailwind CSS, SCSS  
+- Git, Vercel, Netlify, Lighthouse
 
-## Yes i am:
+---
 
-## How ? 
-yeah i followed path like any other sheep, i completed my collage then joined FAST-NUCES to get Bachelor's in Computer Science,  (oi its computer science not software engineer )
-so somehow i get it done by doing some accademic projects for 4 years full then in the end got Page called Bachelor's blah lbah bla. so after this , 
-soME people OPened my head and found <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" /> 
-hired me as engineer in their company.
+## Highlights
+- 2+ years building web apps and production features  
+- Improved app load times by ~30% through performance work  
+- Reduced development cost by ~40% using automation and re-usable components  
+- Achieved 90%+ Lighthouse performance scores on production pages
 
-things which were hard as rock for them were butter for me so. Thats how i start to call my self BUTTER!. 
+---
+ 
 
-You know about money, because of it i had to do labour in 
+## Open to
+Remote or hybrid roles in frontend or full-stack development. Interested in teams that value performance, clean architecture, and continuous learning.
 
+---
 
+## Contact
+Email: hamzaabhutta@gmail.com  
+Portfolio: https://hamzabhutta.vercel.app  
+LinkedIn: https://www.linkedin.com/in/hamzabhutta
 
-but i am not limited to these badges i feel i am more , i have done more and i can do more . 
-
-So after 9 hours of shift and on weekends i am 
-
-<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-## found nothing to do more ,
-
-so  got any issues in your code, need to kills those bugs, i just one email and  pull request away from you.
-Reach out to me i am not going to eat you and you will get a free Labour Or what we say ANgei ANGEENIE aNGINeeR!!!.
-
-
+Thanks for visiting — let’s build something great.
