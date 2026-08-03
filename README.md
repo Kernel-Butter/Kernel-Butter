@@ -1,72 +1,70 @@
 <div align="center">
 
 <!-- ─────────────── header ─────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,25:a6c1ee,75:8ec5fc,100:e0c3fc&height=180&section=header&text=hey%2C%20I'm%20Hamza&fontSize=48&fontColor=2b2b45&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=190&section=header&text=HAMZA.BHUTTA&fontSize=44&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=frontend%20engineer&descSize=16&descColor=8b8ba7&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3500&pause=1000&color=8B7EC8&center=true&vCenter=true&width=600&lines=I+build+interfaces+people+actually+enjoy+using;the+kind+of+dev+who+notices+a+2px+misalignment;currently+somewhere+between+code+and+coffee" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=building+interfaces+people+enjoy+using;react+%C2%B7+next.js+%C2%B7+typescript;the+details+are+not+the+details.+they+make+the+design." alt="typing"/>
 
 </div>
 
 <br/>
 
-## About me
+## $ whoami
 
-I'm a frontend engineer working remotely from Lahore, building e-commerce products for a company in Dubai. My days are mostly React, Next.js and TypeScript, turning designs into things that feel smooth and load fast.
+I'm a frontend engineer working remotely from Lahore, building e-commerce products for a company in Dubai. Checkout flows, payment integrations, product pages that load fast and feel right.
 
-What keeps me interested isn't the frameworks, it's the craft. The spacing that feels right. The animation that's subtle enough that you don't notice it, you just feel it. The component that's so cleanly written the next person actually enjoys working in it.
+What I actually care about is the craft. The spacing that feels correct. The animation subtle enough that you don't notice it, you just feel it. Code clean enough that the next person enjoys working in it.
 
-When I'm not coding, I'm probably gaming, tinkering with PC hardware, or practicing German. Slowly. Very slowly.
+Away from the keyboard: gaming, PC hardware, and learning German. Slowly. Very slowly.
 
 <br/>
 
-## What I work with
+## $ stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma&perline=6" alt="main tools"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,figma&perline=6&theme=dark" alt="stack"/>
 
 <br/>
 
-<sub>plus Zustand, React Query, and a healthy respect for plain CSS</sub>
+<sub>plus Zustand, React Query, GSAP, Supabase, and a healthy respect for plain CSS</sub>
 
 </div>
 
 <br/>
 
-## Things I believe about frontend
+## $ principles
 
-- Good UI is invisible. If someone notices your interface, something probably went wrong.
+- Good UI is invisible. If someone notices the interface, something probably went wrong.
 - Performance is a feature, not an afterthought.
-- The best code is the code your teammate understands without asking you.
+- The best code is the code your teammate understands without asking.
 - Every pixel is a decision. Most people won't see it. Make it anyway.
 
 <br/>
 
-## A bit of life on this profile
+## $ activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hamzabhutta/hamzabhutta/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions"/>
-
-<sub>a small snake, quietly eating my commit history</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kernel-Butter&bg_color=03030a&color=8b8ba7&line=67e8f9&point=e0e0ff&area=true&area_color=0e7490&hide_border=true&custom_title=commit%20frequency" width="94%" alt="activity graph"/>
 
 </div>
 
 <br/>
 
-## Say hi
+## $ connect
 
-I'm always up for a chat about frontend, side projects, or which game to play next.
+Always up for a chat about frontend, side projects, or which game to play next.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/hamzabhutta"><img src="https://img.shields.io/badge/LinkedIn-8ec5fc?style=flat-square&logo=linkedin&logoColor=2b2b45" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/hamzabhutta"><img src="https://img.shields.io/badge/LinkedIn-03030a?style=flat-square&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-a6c1ee?style=flat-square&logo=gmail&logoColor=2b2b45" alt="Email"/></a>
+<a href="mailto:hamzaabhutta@gmail.com"><img src="https://img.shields.io/badge/Email-03030a?style=flat-square&logo=gmail&logoColor=67e8f9" alt="Email"/></a>
 &nbsp;
-<a href="https://hamzabhutta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e0c3fc?style=flat-square&logo=vercel&logoColor=2b2b45" alt="Portfolio"/></a>
+<a href="https://hamzabhutta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-03030a?style=flat-square&logo=vercel&logoColor=67e8f9" alt="Portfolio"/></a>
 
 </div>
 
 <!-- ─────────────── footer ─────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,25:8ec5fc,75:a6c1ee,100:fbc2eb&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=110&section=footer" width="100%"/>
