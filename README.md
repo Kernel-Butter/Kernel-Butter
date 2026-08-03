@@ -11,7 +11,9 @@
 
 ## $ whoami
 
-I'm a frontend engineer working remotely from Lahore, building e-commerce products for a company in Dubai. Checkout flows, payment integrations, product pages that load fast and feel right.
+Frontend engineer with 3+ years of building across the whole spectrum of the web. Animation-heavy marketing sites, browser games on Canvas, scroll-driven storytelling for architecture and luxury brands, component libraries, production checkout systems handling real payments. If it runs in a browser, I've probably shipped a version of it.
+
+The range is the point. One month it's GSAP timelines and parallax, the next it's payment gateways and offline-first data sync. Different problems, same standard: fast, polished, built to last.
 
 What I actually care about is the craft. The spacing that feels correct. The animation subtle enough that you don't notice it, you just feel it. Code clean enough that the next person enjoys working in it.
 
