@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ─────────────── header ─────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=190&section=header&text=HAMZA.BHUTTA&fontSize=44&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=frontend%20engineer&descSize=16&descColor=8b8ba7&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=190&section=header&text=HAMZA.BHUTTA&fontSize=44&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=frontend%20engineer&descSize=16&descColor=8b8ba7&descAlignY=58" width="100%"/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=building+interfaces+people+enjoy+using;react+%C2%B7+next.js+%C2%B7+typescript;the+details+are+not+the+details.+they+make+the+design." alt="typing"/>
 
