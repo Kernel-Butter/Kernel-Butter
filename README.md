@@ -38,7 +38,6 @@ Away from the keyboard: gaming, PC hardware, and learning German. Slowly. Very s
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?w=440&h=360&backgroundColor=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22UI%20Craft%22%2C%22Motion%20/%20Animation%22%2C%22Performance%22%2C%22Architecture%22%2C%22State%20/%20Data%22%2C%22Testing%20/%20Quality%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B95%2C92%2C88%2C82%2C85%2C75%5D%2C%22backgroundColor%22%3A%22rgba%28103%2C232%2C249%2C0.12%29%22%2C%22borderColor%22%3A%22%2367e8f9%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22%23e0e0ff%22%2C%22pointBorderColor%22%3A%22%2367e8f9%22%2C%22pointRadius%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%2C%22beginAtZero%22%3Atrue%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28139%2C139%2C167%2C0.22%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28139%2C139%2C167%2C0.22%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%238b8ba7%22%2C%22fontSize%22%3A13%2C%22fontFamily%22%3A%22monospace%22%7D%7D%7D%7D" alt="skill radar"/>
 
 <sub>self-assessed, honestly</sub>
 
