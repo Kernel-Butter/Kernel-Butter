@@ -1,73 +1,78 @@
 <div align="center">
 
-<!-- ─────────────── header ─────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=190&section=header&text=HAMZA.BHUTTA&fontSize=44&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=frontend%20engineer&descSize=16&descColor=8b8ba7&descAlignY=58" width="100%"/>
+# Hamza Bhutta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=building+interfaces+people+enjoy+using;react+%C2%B7+next.js+%C2%B7+typescript;the+details+are+not+the+details.+they+make+the+design." alt="typing"/>
+**Software Engineer**
 
-</div>
+React · Next.js · TypeScript · Node.js · MongoDB · SQL
 
-<br/>
-
-## $ whoami
-
- 
-
-What I actually care about is the craft. The spacing that feels correct. The animation subtle enough that you don't notice it, you just feel it. Code clean enough that the next person enjoys working in it.
-
-Away from the keyboard: gaming, PC hardware, and learning German. Slowly. Very slowly.
-
-<br/>
-
-## $ stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,figma&perline=6&theme=dark" alt="stack"/>
-
-<br/>
-
-<sub>plus Zustand, React Query, GSAP, Supabase, and a healthy respect for plain CSS</sub>
-
-</div>
-
-<br/>
- 
-
-## $ radar
-
-<div align="center">
-
-
-<sub>self-assessed, honestly</sub>
-
-</div>
-
-<br/>
-
-## $ activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kernel-Butter&bg_color=03030a&color=8b8ba7&line=67e8f9&point=e0e0ff&area=true&area_color=0e7490&hide_border=true&custom_title=commit%20frequency" width="94%" alt="activity graph"/>
-
-</div>
-
-<br/>
-
-## $ connect
-
-Always up for a chat about frontend, side projects, or which game to play next.
-
-<div align="center">
-
-<a href="https://linkedin.com/in/hamzabhutta"><img src="https://img.shields.io/badge/LinkedIn-03030a?style=flat-square&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/hamzabhutta"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:hamzaabhutta@gmail.com"><img src="https://img.shields.io/badge/Email-03030a?style=flat-square&logo=gmail&logoColor=67e8f9" alt="Email"/></a>
+<a href="mailto:hamzaabhutta@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://hamzabhutta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-03030a?style=flat-square&logo=vercel&logoColor=67e8f9" alt="Portfolio"/></a>
+<a href="https://hamzabhutta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
-<!-- ─────────────── footer ─────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03030a,50:0a0a1f,100:03030a&height=110&section=footer" width="100%"/>
+---
+
+## About
+
+I am a software engineer who builds across the stack, with a strong focus on the frontend. I care about clean architecture, thoughtful interfaces, and code that is easy for the next person to work in.
+
+On the frontend, I build fast, accessible, well-structured applications with React and Next.js. On the backend, I design REST and GraphQL APIs with Node.js and model data in both MongoDB and relational databases.
+
+Outside of work: gaming, PC hardware, and learning German.
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, SCSS, Tailwind CSS |
+| **State and Data** | Zustand, React Query |
+| **Backend** | Node.js, Express, RESTful APIs, GraphQL |
+| **Databases** | MongoDB, SQL (PostgreSQL, MySQL), Supabase |
+| **Graphics and Motion** | Three.js, GSAP |
+| **Tooling** | Git, GitHub, Figma, Vercel |
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science**
+FAST National University of Computer and Emerging Sciences (FAST NUCES)
+
+**Core coursework**
+
+| Domain | Subjects |
+| --- | --- |
+| **Programming Foundations** | Programming Fundamentals, Object-Oriented Programming, Data Structures |
+| **Algorithms and Theory** | Design and Analysis of Algorithms, Discrete Structures, Theory of Automata, Compiler Construction |
+| **Systems** | Operating Systems, Computer Organization and Assembly Language, Computer Architecture |
+| **Data** | Database Systems, Data Warehousing and Data Mining |
+| **Networking and Security** | Computer Networks, Information Security |
+| **Software Engineering** | Software Engineering, Software Design and Architecture, Web Programming |
+| **Intelligence** | Artificial Intelligence, Machine Learning |
+| **Mathematics** | Calculus, Linear Algebra, Probability and Statistics |
+
+---
+
+## Experience
+
+**Frontend Software Engineer, The White Boutique** (Remote)
+E-commerce platform based in Dubai.
+
+**Software Engineer, Topdot / Dotlogics** (Lahore)
+Agency work for international clients including CO Architects, Godfather's Pizza, and Sound.com.
+
+**Software Engineer, Absoluit** (Lahore)
+
+---
+
+## Connect
+
+Open to conversations about software engineering, new opportunities, and relocation.
+
+[LinkedIn](https://linkedin.com/in/hamzabhutta) · [Email](mailto:hamzaabhutta@gmail.com) · [Portfolio](https://hamzabhutta.vercel.app)
